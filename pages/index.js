@@ -4,7 +4,7 @@ export default function Home({name}) {
   
   return (
     <div >
-     atul
+     <h3>Welcome to next</h3>
     </div>
   )
 }
